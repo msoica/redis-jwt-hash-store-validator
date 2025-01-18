@@ -1,0 +1,16 @@
+# Development files
+src/
+test/
+examples/
+.github/
+jest.config.js
+.eslintrc
+.prettierrc
+coverage/
+
+# Logs
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
