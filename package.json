@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/redis-jwt-hash-store-validator.git"
+    "url": "git+https://github.com/msoica/redis-jwt-hash-store-validator.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/redis-jwt-hash-store-validator/issues"
+    "url": "https://github.com/msoica/redis-jwt-hash-store-validator/issues"
   },
-  "homepage": "https://github.com/yourusername/redis-jwt-hash-store-validator#readme",
+  "homepage": "https://github.com/msoica/redis-jwt-hash-store-validator#readme",
   "dependencies": {
     "crypto": "^1.0.1",
     "jsonwebtoken": "^9.0.0",

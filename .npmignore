@@ -1,12 +1,13 @@
 # Development files
 src/
-test/
+tests/
 examples/
 .github/
 jest.config.js
 .eslintrc
 .prettierrc
 coverage/
+node_modules/
 
 # Logs
 *.log
